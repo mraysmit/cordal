@@ -110,19 +110,6 @@ Response:
 }
 ```
 
-## Project Structure
-
-```
-cordal-api-mesh/
-├── cordal-api-service/          # Main API framework
-├── cordal-metrics-service/      # Performance monitoring  
-├── cordal-common-library/       # Shared utilities
-├── cordal-integration-tests/    # Integration tests
-├── generic-config/              # Your configuration files
-├── scripts/                     # Build and run scripts
-└── docs/                        # Comprehensive documentation
-```
-
 ## Documentation
 
 - **[Complete Developer Guide](docs/CORDAL_COMPREHENSIVE_GUIDE.md)** - Step-by-step examples from simple to advanced
