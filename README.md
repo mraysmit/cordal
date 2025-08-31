@@ -1,8 +1,17 @@
-# CORDAL - Configuration Orchestrated REST Dynamic API Layer
+# Configuration Orchestrated REST Dynamic API Layer
 
-[![Java](https://img.shields.io/badge/Java-23-orange.svg)](https://openjdk.java.net/projects/jdk/23/)
-[![Maven](https://img.shields.io/badge/Maven-3.8+-blue.svg)](https://maven.apache.org/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+<div align="center">
+  <img src="docs/cordal-logo.png" alt="CORDAL Logo" width="300"/>
+</div>
+
+<div align="center">
+
+[![Java](https://img.shields.io/badge/Java-21-orange.svg)](https://openjdk.org/projects/jdk/21/)
+[![Javalin](https://img.shields.io/badge/Powered%20by-Javalin%206.1.3-blue.svg)](https://javalin.io/)
+[![Maven](https://img.shields.io/badge/Maven-3.6+-red.svg)](https://maven.apache.org/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
+
+</div>
 
 **Version:** 1.0
 **Date:** 2025-08-25
